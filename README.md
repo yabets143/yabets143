@@ -3,10 +3,10 @@
 ## 🚀 About Me
 I'm a **Software Engineering Student** at **Adama Science and Technology University** with a strong passion for **Cybersecurity** and **Software Development**. I'm an aspiring **ASP.NET Developer**, a **CTF Player**, and an advocate for secure coding practices. 
 
-🔹 **Programming Languages**: C#, Python  
+🔹 **Programming Languages**: C#, Python , JS 
 🔹 **Technologies & Frameworks**: ASP.NET, React.js, Redux  
 🔹 **Operating Systems**: Linux 🐧  
-🔹 **Interests**: Web Security, Penetration Testing, Network Security  
+🔹 **Interests**: Web Security, Penetration Testing, Web Development 
 
 ## 💼 Experience
 🔹 **Software Engineer Intern** - Cybersoft Plc, Ethiopia (Jul 2024 - Sep 2024)  
@@ -19,7 +19,6 @@ I'm a **Software Engineering Student** at **Adama Science and Technology Univers
 ## 🏆 Certifications
 ✔ **Google Cybersecurity Professional Certificate**  
 ✔ **Google Cybersecurity Specialization**  
-✔ **NIST Cybersecurity Framework**  
 
 ## 🌍 Let's Connect
 🔗 [LinkedIn](https://www.linkedin.com/in/yabets7)  
