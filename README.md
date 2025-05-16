@@ -19,6 +19,7 @@ I'm a **Software Engineering Student** at **Adama Science and Technology Univers
 ## 🏆 Certifications
 ✔ **Google Cybersecurity Professional Certificate**  
 ✔ **Google Cybersecurity Specialization** 
+
 ✔ **API Penetration Testing (APISEC University)** 
 
 
