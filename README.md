@@ -1,4 +1,4 @@
-u# Hi there! 👋 I'm Yabets Workaferahu
+# Hi there! 👋 I'm Yabets Workaferahu
 
 ## 🚀 About Me
 I'm a **Software Engineering Student** at **Adama Science and Technology University** with a strong passion for **Cybersecurity** and **Software Development**. I'm an aspiring **ASP.NET Developer**, a **CTF Player**, and an advocate for secure coding practices. 
