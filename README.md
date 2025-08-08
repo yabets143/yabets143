@@ -44,10 +44,29 @@ I'm a **Software Engineering Student** at **Adama Science and Technology Univers
 *Adama Science and Technology University (2022 - 2026)*
 
 ## 🏆 Certifications
-✔ **Google Cybersecurity Professional Certificate**  
-✔ **Google Cybersecurity Specialization** 
 
-✔ **API Penetration Testing (APISEC University)** 
+✔ **Google Cybersecurity Professional Certificate**  
+Issued Dec 2024  
+Skills: Network Security · Information Security · Python · Linux
+
+✔ **Google Cybersecurity Specialization**  
+Issued Dec 2024  
+Credential ID: D80SKI1DHJRF  
+Skills: NIST Cybersecurity Framework · Network Security · Information Security · Python · Linux
+
+✔ **API Penetration Testing (APISEC University)**  
+Issued May 2025
+
+✔ **Web Application Pentesting Certificate (TryHackMe)**  
+Issued Jul 2025  
+Credential ID: THM-FIFBWDFJ6N  
+Skills: Web Application Security · OWASP · HTTP Request Smuggling · Deserialization Vulnerabilities
+
+✔ **Junior Penetration Tester Certificate (TryHackMe)**  
+Issued Jun 2025  
+Credential ID: THM-HP19GGGQ9E  
+Skills: Linux · Red Teaming · Penetration Testing
+
 
 
 ## 🌍 Let's Connect
