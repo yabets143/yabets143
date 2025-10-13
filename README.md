@@ -13,7 +13,7 @@ I'm a **Software Engineering Student** at **Adama Science and Technology Univers
 ### [Comms-Shield](https://github.com/yabets143/comms-shield) (Python)  
 A **Metadata Leak Prevention System (MLPS)** that automatically removes hidden identifiers from files, emails, and documents. Includes **real-time folder monitoring** to scrub files as they are added, protecting sensitive information and OPSEC.  
 
-### [INSA-Cyber-Security-Project-PentestFlow](https://github.com/yabets143/INSA-Cyber-Security-Project-PentestFlow) (TypeScript)  
+### [INSA-Cyber-Security-Project-PentestFlow](https://github.com/yabets143/INSA-Cyber-Security-Project-PentestFlow) (TypeScript & Python)  
 A **pentesting automation framework** forked from a collaborative cybersecurity project. Helps streamline penetration testing workflows and reporting.  
 
 ### [Network-Traffic-Sonification](https://github.com/yabets143/Network-Traffic-Sonification) (Python)  
