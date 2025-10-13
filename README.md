@@ -8,6 +8,22 @@ I'm a **Software Engineering Student** at **Adama Science and Technology Univers
 🔹 **Technologies & Frameworks**: ASP.NET, React.js,
 🔹 **Operating Systems**: Linux 🐧  
 🔹 **Interests**: Web Security, Penetration Testing, Web Development 
+## 🛡️ Security & Pentesting Projects
+
+### [Comms-Shield](https://github.com/yabets143/comms-shield) (Python)  
+A **Metadata Leak Prevention System (MLPS)** that automatically removes hidden identifiers from files, emails, and documents. Includes **real-time folder monitoring** to scrub files as they are added, protecting sensitive information and OPSEC.  
+
+### [INSA-Cyber-Security-Project-PentestFlow](https://github.com/yabets143/INSA-Cyber-Security-Project-PentestFlow) (TypeScript)  
+A **pentesting automation framework** forked from a collaborative cybersecurity project. Helps streamline penetration testing workflows and reporting.  
+
+### [Network-Traffic-Sonification](https://github.com/yabets143/Network-Traffic-Sonification) (Python)  
+Converts **real-time network traffic patterns into soundscapes**, enabling ambient threat detection through auditory perception instead of traditional visual monitoring.  
+
+### [AuthZChecker](https://github.com/yabets143/AuthZChecker) (Python)  
+A **CLI tool** that tests admin-only endpoints for improper access by other user roles. Compares HTTP responses to detect potential authorization bypass or privilege escalation vulnerabilities.  
+
+### [TorChat](https://github.com/yabets143/torchat) (Python & Bash)  
+A **privacy-focused P2P chat tool** using cryptcat and torsocks to route encrypted communication over Tor. Supports connecting via mapped `.onion` addresses with both listen and connect modes.  
 
 ## 🏆 Certifications
 
