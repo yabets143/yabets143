@@ -14,7 +14,7 @@ I'm a **Software Engineer** with a strong passion for **Cybersecurity** and **So
 A **Metadata Leak Prevention System (MLPS)** that automatically removes hidden identifiers from files, emails, and documents. Includes **real-time folder monitoring** to scrub files as they are added, protecting sensitive information and OPSEC.  
 
 ### [PentestFlow](https://github.com/yabets143/PentestFlow) (TypeScript & Python)  
-A **pentesting automation framework** forked from a collaborative cybersecurity project. Helps streamline penetration testing workflows and reporting.  
+A **pentesting automation framework** a cybersecurity project. Helps streamline penetration testing workflows and reporting.  
 
 ### [Network-Traffic-Sonification](https://github.com/yabets143/Network-Traffic-Sonification) (Python)  
 Converts **real-time network traffic patterns into soundscapes**, enabling ambient threat detection through auditory perception instead of traditional visual monitoring.  
